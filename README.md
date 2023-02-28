@@ -20,7 +20,7 @@
 
   ## Usage
 
-  ![video](https://drive.google.com/file/d/11MwwAA1Yf9QgN4rNFlKKgBb432P7ppZS/view)
+  ![Demo](./demo/Screenshot%202023-02-28%20190202.jpg)
 
   ## License
 
