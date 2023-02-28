@@ -20,7 +20,7 @@
 
   ## Usage
 
-  ![video](./demo/Untitled_%20Feb%2028%2C%202023%206_29%20PM.webm)
+  ![video](./demo/Untitled_%20Feb%2028%2C%202023%206_29%20PM.webm.mov)
 
   ## License
 
