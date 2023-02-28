@@ -20,7 +20,7 @@
 
   ## Usage
 
-  ![video](https://drive.google.com/file/d/1hm3BC_waE7oiFCQrbA3Y7AisCJd8TRJW/view)
+  ![video](https://drive.google.com/file/d/11MwwAA1Yf9QgN4rNFlKKgBb432P7ppZS/view)
 
   ## License
 
@@ -32,7 +32,7 @@
 
   ## Tests
 
-  none
+  terminal
 
   ## Questions
 
