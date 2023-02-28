@@ -1,6 +1,6 @@
 # Readme Generator
 
-    ## Table of Contents
+  ## Table of Contents
   
   - [Description](#description)
   - [Installation](#installation)
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  terminal usage
+  ![video](https://drive.google.com/file/d/1hm3BC_waE7oiFCQrbA3Y7AisCJd8TRJW/view)
 
   ## License
 
