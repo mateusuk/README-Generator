@@ -20,7 +20,7 @@
 
   ## Usage
 
-  ![video](./demo/Untitled_%20Feb%2028%2C%202023%206_29%20PM.mov)
+  ![video](https://drive.google.com/file/d/11MwwAA1Yf9QgN4rNFlKKgBb432P7ppZS/view)
 
   ## License
 
